@@ -1,0 +1,19 @@
+mern-docker-project/
+│
+├── docker-compose.yaml
+├── README.md
+├── LICENSE
+├── .gitignore
+│
+├── docs/
+│   ├── architecture.png
+│   ├── containers.png
+│   ├── screenshots/
+│   │   ├── home.png
+│   │   ├── docker-ps.png
+│   │   ├── compose-up.png
+│   │   └── mongo-data.png
+│
+└── mern/
+    ├── backend/
+    └── frontend/
